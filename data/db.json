@@ -1,125 +1,26 @@
 {
   "users": [
     {
-      "firstName": "HICHAM",
-      "lastName": "EL KAMOUNI",
-      "email": "hhhh@gmail.com",
-      "cne": "znlegnl",
-      "age": "25",
+      "firstName": "hicham",
+      "lastName": "hicham",
+      "email": "hicham@gmail.com",
+      "cne": "HH123456",
+      "age": "26",
       "campus": "safi",
-      "password": "ampxly3rhbhhhh",
+      "password": "eg5svwnhluhicham",
       "state": false,
       "id": 1
     },
     {
-      "firstName": "",
-      "lastName": "EL KAMOUNI",
-      "email": "",
-      "cne": "",
-      "age": "25",
-      "campus": "safi",
-      "password": "jc8nhqhlm2n",
-      "state": false,
-      "id": 2
-    },
-    {
-      "firstName": "HICHAM",
-      "lastName": "EL KAMOUNI",
-      "email": "hhhh@gmail.com",
-      "cne": "znlegnl",
-      "age": "25",
-      "campus": "safi",
-      "password": "p9qy0v0frfhhhh",
-      "state": false,
-      "id": 3
-    },
-    {
-      "firstName": "",
-      "lastName": "EL KAMOUNI",
-      "email": "",
-      "cne": "",
-      "age": "25",
-      "campus": "safi",
-      "password": "h972rrcygr",
-      "state": false,
-      "id": 4
-    },
-    {
-      "firstName": "zefzef",
-      "lastName": "EL KzefzefAMOUNI",
-      "email": "zefzef@gmail.com",
-      "cne": "fzefzef",
-      "age": "25",
-      "campus": "safi",
-      "password": "pfloviuml8fzefzef",
-      "state": false,
-      "id": 5
-    },
-    {
-      "firstName": "zefzef",
-      "lastName": "EL KzefzefAMOUNI",
-      "email": "zefzef@gmail.co",
-      "cne": "fzefzef",
-      "age": "25",
-      "campus": "safi",
-      "password": "45x5ddhwx37zefzef",
-      "state": false,
-      "id": 6
-    },
-    {
-      "firstName": "HICHAM",
-      "lastName": "EL KAMOUNI",
-      "email": "hhhh@gmail.com",
-      "cne": "HH172084",
-      "age": "27",
-      "campus": "safi",
-      "password": "e9adxgbl5lohhhh",
-      "state": false,
-      "id": 7
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "cne": "",
-      "age": "27",
-      "campus": "safi",
-      "password": "ux414o4q3wd",
-      "state": false,
-      "id": 8
-    },
-    {
-      "firstName": "SAID",
-      "lastName": "KJK",
-      "email": "rafik@gmail.Com",
-      "cne": "HH12321",
-      "age": "21",
-      "campus": "safi",
-      "password": "acgc5gp1ncrafik",
-      "state": false,
-      "id": 9
-    },
-    {
-      "firstName": "HICHAM",
-      "lastName": "EL KAMOUNI",
-      "email": "hhhh@gmail.com",
-      "cne": "HH172084",
+      "firstName": "hicham",
+      "lastName": "hicham",
+      "email": "hicham1@gmail.com",
+      "cne": "HH536637",
       "age": "26",
       "campus": "safi",
-      "password": "xwpnmbjloohhhhh",
+      "password": "pqpqvo80xhrhicham1",
       "state": false,
-      "id": 10
-    },
-    {
-      "firstName": "HICHAM",
-      "lastName": "zenlklnz",
-      "email": "zlnlk@gmail.com",
-      "cne": "HH172084",
-      "age": "23",
-      "campus": "yousoufia",
-      "password": "cjvqyneodaczlnlk",
-      "state": false,
-      "id": 11
+      "id": 2
     }
   ]
 }

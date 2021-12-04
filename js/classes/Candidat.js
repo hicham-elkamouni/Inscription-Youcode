@@ -1,16 +1,18 @@
-import User from '../User.js'
+import User from './User.js'
 
 export default class Candidat extends User{
     password;
     state = false;
     constructor(firstName, lastName,email, cne, age, campus){
-      super( firstName, lastName, email, cne, age, campus )
+      super(firstName, lastName,email, cne, age, campus )
     }
+
+    // generatePassword = async () => {
+    //   return this.password = Math.random().toString(36).substr(2) + this.email.split("@", 1);
+    // };
     
     addCandidat = async () => {
     
-    this.password = Math.random().toString(36).substr(2) + this.email.split("@", 1);
-
     const obj = {
       firstName : this.firstName,
       lastName : this.lastName,
@@ -61,7 +63,7 @@ export default class Candidat extends User{
     //   title: 'Signed in successfully'
     // })
 
-    window.location.replace('/login.html');
+    // window.location.replace('/login.html'); 
 
 
     }

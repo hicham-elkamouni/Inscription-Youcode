@@ -44,8 +44,8 @@ export default class Candidat extends User{
       }
     })
 
-    sessionStorage.setItem('email', this.email);
-    sessionStorage.setItem('password', this.password);
+    // sessionStorage.setItem('usernam', this.email);
+    // sessionStorage.setItem('password', this.password);
 
     // const authObj = {
     //   email : this.email,

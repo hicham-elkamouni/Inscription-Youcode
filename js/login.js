@@ -21,6 +21,8 @@ window.addEventListener('DOMContentLoaded', () => {
         if(user[0].password == password.value ){
             console.log("password nadi, rak mconecté")  
             sessionStorage.removeItem('tempEmail');
+
+            sessionStorage.setItem('username', user[0].email);
             
             location.replace("http://localhost:3000/test.html");
         }else{
@@ -36,7 +38,6 @@ window.addEventListener('DOMContentLoaded', () => {
     }else{
         //sweet alert
         console.log("email ghalet")
-
     }
 
     console.log(user)

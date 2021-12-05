@@ -21,6 +21,50 @@
       "password": "pqpqvo80xhrhicham1",
       "state": false,
       "id": 2
+    },
+    {
+      "firstName": "sanae",
+      "lastName": "sanae",
+      "email": "sanae@iriz.waririz",
+      "cne": "SS13452",
+      "age": "30",
+      "campus": "safi",
+      "password": "nwzpwkt2d2sanae",
+      "state": false,
+      "id": 3
+    },
+    {
+      "firstName": "rafik",
+      "lastName": "rafik",
+      "email": "rafik@gmail.com",
+      "cne": "RR123564",
+      "age": "26",
+      "campus": "safi",
+      "password": "g6zywfidzmjrafik",
+      "state": false,
+      "id": 4
+    },
+    {
+      "firstName": "hosam",
+      "lastName": "radi",
+      "email": "hosam@gmail.com",
+      "cne": "HH13423",
+      "age": "26",
+      "campus": "safi",
+      "password": "v69n7sx7y3qhosam",
+      "state": false,
+      "id": 5
+    },
+    {
+      "firstName": "free",
+      "lastName": "fire",
+      "email": "a7sen@lo3ba.l3alam",
+      "cne": "FF25423",
+      "age": "26",
+      "campus": "safi",
+      "password": "uhsmzt7wixda7sen",
+      "state": false,
+      "id": 6
     }
   ]
 }

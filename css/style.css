@@ -83,3 +83,68 @@ body {
     color: #006ACC;
     opacity: 1;
 }
+
+/* --- admin dashboard ---- */
+
+.containerr{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard-container {
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.dashboard-header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border: 2px solid #00c2fd;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.dashboard-title {
+    letter-spacing: 6px;
+}
+
+.styled-title {
+    color: rgb(37, 151, 140);
+}
+
+.download-btn {
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    background-color: none;
+    outline: none;
+}
+
+.download-btn img {
+    height: 100%;
+    width: 100%;
+}
+
+.dashboard-section-conatainer {
+    padding: 0 10px;
+}
+
+.dashboard-section {
+    padding: 0px 10px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border: 2px solid #636464;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

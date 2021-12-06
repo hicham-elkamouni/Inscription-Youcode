@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Youcode Inscription</title>
+</head>
+<body>
+    <section class="container">
+        <div class="data-container">
+            <h2 class="form-title">Welcome, Please fill this form</h2>
+            <form class="form-container" id="registerForm">
+                <input name="firstName" class="form-fields" type="text" placeholder="Enter your first name">
+                <input name="lastName" class="form-fields" type="text" placeholder="Enter your last name">
+                <input name="email" class="form-fields" type="email" placeholder="Enter your email">
+                <input name="cne" class="form-fields" type="text" placeholder="Enter your CNE">
+                <input name="age" class="form-fields" type="number" placeholder="Enter your age">
+                <select name="campus" class="form-fields" name="campus">
+                    <option value="safi">Safi</option>
+                    <option value="yousoufia">Yousoufia</option>
+                </select>
+                <button id="loginBtn" class="confirmation-form" type="submit" value="Submit">Submit</button>
+            </form>
+        </div>
+    </section>
+    <script type="module" src="./js/register.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>
